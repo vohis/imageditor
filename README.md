@@ -1,1 +1,1 @@
-
+Деплой на Netlify: https://imageditorlab.netlify.app/
